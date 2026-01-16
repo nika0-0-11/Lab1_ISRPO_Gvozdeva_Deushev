@@ -1,0 +1,4 @@
+﻿Console.WriteLine("Hello, World!");
+Console.WriteLine("Меня зовут Гвоздева В.А");
+Console.WriteLine("Меня зовут Деушев Т.Т");
+Console.WriteLine(DateTime.Now);
